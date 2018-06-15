@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=Plasma decoration based on Breeze and Dynamo, with transparency and color scheme support
+Name=Freeze
+X-KDE-PluginInfo-Author=Hombre Maledicto, MirceaKitsune
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=KDE4
+X-KDE-PluginInfo-Email=mirceakitsune@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL V2
+X-KDE-PluginInfo-Name=Freeze
+X-KDE-PluginInfo-Version=1.4.3
