@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9999999"
-     inkscape:cx="446.915"
-     inkscape:cy="154.86067"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="532.20419"
+     inkscape:cy="222.41356"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -19171,7 +19171,7 @@
          inkscape:connector-curvature="0" />
       <path
          style="opacity:0.4;fill:#f5f6f7;fill-opacity:1;stroke:none"
-         d="M 410.125,41 410,62.96875 V 63 72 H 555 V 63 62.96875 41 Z"
+         d="M 410,41 V 62.96875 63 72 H 555 V 63 62.96875 41 Z"
          transform="translate(-85,134)"
          id="path6092-3-3"
          inkscape:connector-curvature="0"
