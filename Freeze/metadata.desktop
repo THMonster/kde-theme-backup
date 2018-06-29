@@ -1,11 +1,27 @@
 [Desktop Entry]
-Comment=Plasma decoration based on Breeze and Dynamo, with transparency and color scheme support
 Name=Freeze
-X-KDE-PluginInfo-Author=Hombre Maledicto, MirceaKitsune
-X-KDE-PluginInfo-Category=Plasma Theme
-X-KDE-PluginInfo-Depends=KDE4
-X-KDE-PluginInfo-Email=mirceakitsune@gmail.com
+
+
+X-KDE-PluginInfo-Author=Will_S.
+X-KDE-PluginInfo-Email=info@kde-neon.ode
+X-KDE-PluginInfo-Name=colour-breeze
+X-KDE-PluginInfo-Version=5.30
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GPL V2
-X-KDE-PluginInfo-Name=Freeze
-X-KDE-PluginInfo-Version=1.4.3
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Next
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[ContrastEffect]
+enabled=true
+contrast=0.4
+#intensity is disabled, in order to auto adjust to the chosen theme color
+# intensity=2.0
+saturation=1.7
