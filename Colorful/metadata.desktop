@@ -2,8 +2,8 @@
 Name=Colorful
 
 
-X-KDE-PluginInfo-Author=Will_S.
-X-KDE-PluginInfo-Email=info@kde-neon.ode
+X-KDE-PluginInfo-Author=IsoaSFlus
+X-KDE-PluginInfo-Email=me@isoasflus.me
 X-KDE-PluginInfo-Name=Colorful
 X-KDE-PluginInfo-Version=5.30
 X-KDE-PluginInfo-Website=
@@ -13,11 +13,6 @@ X-KDE-PluginInfo-License=LGPL
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
-[Wallpaper]
-defaultWallpaperTheme=Next
-defaultFileSuffix=.png
-defaultWidth=1920
-defaultHeight=1080
 
 [ContrastEffect]
 enabled=true
